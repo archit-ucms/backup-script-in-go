@@ -1,0 +1,4 @@
+dirPath: "/data/to/backup"
+server: "user@ip:/backup/location"
+archiveFileName: "my_imp_backup"
+backupType: "scp"
